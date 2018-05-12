@@ -1,0 +1,37 @@
+_repo: The-Autobiography-of-Sergeant-William-LawrenceA-Hero-of-the-Peninsular-and-Waterloo-Campaigns_29263
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lawrence, William
+    birthdate: 1791
+    deathdate: 1867
+    gutenberg_agent_id: '33804'
+    url: http://www.gutenberg.org/2009/agents/33804
+  editor:
+    agent_name: Nugent-Bankes, George
+    gutenberg_agent_id: '33800'
+    url: http://www.gutenberg.org/2009/agents/33800
+description: ''
+gutenberg_bookshelf: Napoleonic(Bookshelf)
+gutenberg_issued: '2009-06-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29263'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Peninsular War, 1807-1814 -- Personal narratives, British'
+- !lcsh 'Great Britain. Army -- Military life'
+- !lcc 'DC'
+- !lcsh 'Lawrence, William, 1791-1867'
+- !lcsh 'Waterloo, Battle of, Waterloo, Belgium, 1815 -- Personal narratives, British'
+- !lcsh 'Great Britain. Army -- Biography'
+title: 'The Autobiography of Sergeant William Lawrence
+
+  A Hero of the Peninsular and Waterloo Campaigns'
+url: http://www.gutenberg.org/ebooks/29263
